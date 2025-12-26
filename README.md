@@ -54,7 +54,7 @@ This system enhances traditional password protection using:
 
 ### 1. Clone Repository  
 ```
-git clone https://github.com/yourusername/Secure-Access-Encryption.git
+git clone https://github.com/shivakumargurrapu/Secure-Access-Encryption.git
 ```
 
 ### 2. Create MySQL Database  
@@ -66,7 +66,7 @@ CREATE DATABASE secure_access;
 ```
 DB_URL = jdbc:mysql://localhost:3306/secure_access
 DB_USER = root
-DB_PASS = your_password
+DB_PASS = root
 ```
 
 ### 4. Deploy on Tomcat  
